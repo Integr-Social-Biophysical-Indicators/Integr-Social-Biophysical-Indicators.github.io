@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Giorgi Chighladze"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/gio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Ames, IA"
   email            :
